@@ -1,6 +1,9 @@
 # Node modules
 node_modules/
 
+#testing rest api
+src/test.rest
+
 # Build output
 dist/
 build/
